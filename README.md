@@ -1,6 +1,6 @@
 # The Band Website
 
-### Single Page Webbsite ~ Express | node.js 
+### Single Page Website ~ Express | node.js 
 
 :large_blue_circle: John Trujillo :large_blue_circle:
 
