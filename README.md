@@ -12,7 +12,7 @@ Sample Band Website with simple animations and placeholder content. Built using 
 ## Getting Started:
 
 ![App Screenshot 1](https://i.imgur.com/3Lg25Bi.png)
-![App Screenshot 2](https://#)
+![App Screenshot 2](https://i.imgur.com/PUOkfuL.png)
 ![App Screenshot 3](https://#)
 
 | [Link to Heroku](https://insynchsongs.herokuapp.com/) :trollface: | 
