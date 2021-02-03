@@ -2,7 +2,7 @@
 
 ### Single Page Express node.js Website
 
-| Built by: | :large_blue_circle: John Trujillo |
+:large_blue_circle: John Trujillo :large_blue_circle:
 
 
 ## Introduction
@@ -11,9 +11,9 @@ Sample Band Website with simple animations and placeholder content. Built using 
 
 ## Getting Started:
 
-![App Screenshot 2](https://i.imgur.com/FbRw9bO.png)
+![App Screenshot 2](https://#)
 
-| [Link to Heroku](https://insynchsongs.herokuapp.com/) :trollface: | [Trello Boards](https://trello.com/b/tYNSacSN/sei-project-3-synch) | [Wireframe](https://github.com/amriikk/inSynch.git/) | [Deck](https://docs.google.com/presentation/d/1tw0Nbhoj-K7TOq6NjJdoOy5LAKwZjxRUAOsluOhLUaE/edit#slide=id.gcb9a0b074_1_0/) |
+| [Link to Heroku](https://insynchsongs.herokuapp.com/) :trollface: | 
 | ------------- |:-------------:| -----:|-----:|
 
 
@@ -26,7 +26,7 @@ Sample Band Website with simple animations and placeholder content. Built using 
 ###### :small_blue_diamond: Vanilla JavaScript
 
 
-*Fonts brought to you by Google-Fonts ('Jost')*
+*Fonts brought to you by Google-Fonts ('IBM Plex Mono')*
 
 
 
