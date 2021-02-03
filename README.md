@@ -39,13 +39,9 @@ Sample Band Website with simple animations and placeholder content. Built using 
 
 :thought_balloon: Draw out the wireframe for the pages
 
-:thought_balloon: Organize Trello board and add team members
-
 :thought_balloon: Implement base CSS styles; fonts, background, colors
 
-:thought_balloon: Define RESTful routes for the different moods
 
-:thought_balloon: Establish GitHub work flow and roles
 
 ## In Development:
 
