@@ -19,11 +19,11 @@ Sample Band Website with simple animations and placeholder content. Built using 
 
 ## Technology + Techniques: 
 
-###### :small_blue_diamond: HTML5
+##### :small_blue_diamond: HTML5
 
-###### :small_blue_diamond: CSS
+##### :small_blue_diamond: CSS
 
-###### :small_blue_diamond: Vanilla JavaScript
+##### :small_blue_diamond: Vanilla JavaScript
 
 
 
