@@ -14,7 +14,7 @@ Sample Band Website with simple animations and placeholder content. Built using 
 ![App Screenshot 2](https://#)
 
 | [Link to Heroku](https://insynchsongs.herokuapp.com/) :trollface: | 
-| ------------- |:-------------:| -----:|-----:|
+| ------------- |
 
 
 ## Technology + Techniques: 
