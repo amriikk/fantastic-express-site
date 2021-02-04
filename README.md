@@ -11,7 +11,7 @@ Sample Band Website with simple animations and placeholder content. Built using 
 
 ## Getting Started:
 
-| [Link to Heroku](https://insynchsongs.herokuapp.com/) :trollface: | 
+| [Link to GH Pages](https://amriikk.github.io/node-express-site/) :trollface: | 
 | -------------- |
 
 ![App Screenshot 1](https://i.imgur.com/3Lg25Bi.png)
