@@ -11,9 +11,10 @@ Sample Band Website with simple animations and placeholder content. Built using 
 
 ## Getting Started:
 
-![App Screenshot 1](https://i.imgur.com/3Lg25Bi.png)
 | [Link to Heroku](https://insynchsongs.herokuapp.com/) :trollface: | 
 | -------------- |
+
+![App Screenshot 1](https://i.imgur.com/3Lg25Bi.png)
 
 
 ## Technology + Techniques: 
