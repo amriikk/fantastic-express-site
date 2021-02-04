@@ -11,7 +11,9 @@ Sample Band Website with simple animations and placeholder content. Built using 
 
 ## Getting Started:
 
-<img src="https://i.imgur.com/3Lg25Bi.png" width="150" height="280">
+<img src="https://i.imgur.com/3Lg25Bi.png" width="280" height="280">
+<img src="https://i.imgur.com/3Lg25Bi.png" width="280" height="280">
+<img src="https://i.imgur.com/3Lg25Bi.png" width="280" height="280">
 
 ![App Screenshot 1](https://i.imgur.com/3Lg25Bi.png)
 ![App Screenshot 2](https://i.imgur.com/PUOkfuL.png)
