@@ -22,7 +22,12 @@ Sample Band Website with simple animations and placeholder content. Built using 
 
 ##### :small_blue_diamond: CSS
 
+##### :small_blue_diamond: node.js
+
+##### :small_blue_diamond: Express
+
 ##### :small_blue_diamond: Vanilla JavaScript
+
 
 *Fonts brought to you by Google-Fonts ('IBM Plex Mono')*
 
